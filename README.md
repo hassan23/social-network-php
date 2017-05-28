@@ -19,3 +19,4 @@ SIMPLE STEPS TO GET THIS PROJECT RUNNING
 HINT TO UTILIZE THIS PROJECT
 ###HINT-1:start by registering two user and sending friend request from one user to another.
 ###HINT-2: you can search any user ever register by the search bar provided above(hitting enter doesn't work on this, you have to click on search button.)
+ 
